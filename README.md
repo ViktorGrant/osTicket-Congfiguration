@@ -53,7 +53,8 @@ how to configure osTicket before using it
 
 **John Doe:** Same as Jane, with John’s info.
 
-> **Image:** "Users osTicket" — shows both agents + default "test Toad"
+> **Image:** "<img width="1278" alt="image 10 users osTicket image" src="https://github.com/user-attachments/assets/3aff5aaa-5a1e-41ee-8f4a-38f6285bf387" />
+" — shows both agents + default "test Toad"
 
 
 
@@ -69,7 +70,8 @@ how to configure osTicket before using it
   - Email: `Karen@gmail.com`
   - Full Name: `Karen`
 
-> **Image:** "Karen User" — shows Karen's account created
+> **Image:** "<img width="1105" alt="Karen User Image" src="https://github.com/user-attachments/assets/5966bf26-323e-4ff5-acf3-aa2b6790f4b5" />
+" — shows Karen's account created
 
 ---
 
@@ -80,7 +82,9 @@ how to configure osTicket before using it
     - `Sev-B`: Grace Period: 4 hours, Schedule: 24/7  
     - `Sev-C`: Grace Period: 8 hours, Schedule: Business Hours  
 
-> **Image:** SLA Panel showing 3 new SLAs
+> **Image:** "<<img width="1088" alt="Sla Panel" src="https://github.com/user-attachments/assets/369e899b-e81a-4607-9b67-22bdd6bb832e" />
+>"
+- SLA Panel showing 3 new SLAs
 
 ---
 
@@ -96,7 +100,8 @@ how to configure osTicket before using it
 | Password Reset             | Report a Problem |
 | Other                      | General Inquiry  |
 
-> **Image:** Help Topics Panel with entries listed above
+> **Image:** <img width="1103" alt="Help Topics" src="https://github.com/user-attachments/assets/a284de65-9ac5-412a-978a-13de87e7c5d8" />
+- Help Topics Panel with entries listed above
 
 ---
 
