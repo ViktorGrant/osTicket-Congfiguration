@@ -43,6 +43,20 @@ how to configure osTicket before using it
 
 **Jane Doe:**
 
+Username: Jane
+
+Last name: Doe
+
+Email: Jane@gmail.com
+
+Password: Password1
+
+Department: Sys Admins
+
+Access: Supreme Admin
+
+Team: Online Banking
+
 
 
 **John Doe:** Same as Jane, with John’s info.
