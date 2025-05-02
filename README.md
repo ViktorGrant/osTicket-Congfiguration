@@ -43,19 +43,18 @@ how to configure osTicket before using it
 
 **Jane Doe:**
 
-Username: Jane
+&nbsp;&nbsp;&nbsp;&nbsp;Username: Jane  
+&nbsp;&nbsp;&nbsp;&nbsp;Last name: Doe  
+&nbsp;&nbsp;&nbsp;&nbsp;Email: Jane@gmail.com  
+&nbsp;&nbsp;&nbsp;&nbsp;Password: Password1  
+&nbsp;&nbsp;&nbsp;&nbsp;Department: Sys Admins  
+&nbsp;&nbsp;&nbsp;&nbsp;Access: Supreme Admin  
+&nbsp;&nbsp;&nbsp;&nbsp;Team: Online Banking
 
-Last name: Doe
+**John Doe:** Same as Jane, with John’s info.
 
-Email: Jane@gmail.com
+> **Image:** "Users osTicket" — shows both agents + default "test Toad"
 
-Password: Password1
-
-Department: Sys Admins
-
-Access: Supreme Admin
-
-Team: Online Banking
 
 
 
